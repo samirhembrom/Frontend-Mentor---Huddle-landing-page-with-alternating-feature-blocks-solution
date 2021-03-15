@@ -35,8 +35,8 @@ I gave a breakpoint at 500px, keeping the site layout responsive. I gave focus a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/samirhembrom/Frontend-Mentor---Huddle-landing-page-with-alternating-feature-blocks-solution#author)
+- Live Site URL: (https://frontend-mentor-huddle-landing-page-with-alternating-4siltv882.vercel.app/)
 
 ## My process
   I went for Mobile first approach and then went for desktop view. I have used sematic HTML for building the website.
