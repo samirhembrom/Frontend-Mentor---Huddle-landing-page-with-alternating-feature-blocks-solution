@@ -26,10 +26,10 @@ I gave a breakpoint at 500px, keeping the site layout responsive. I gave focus a
 
 ### Screenshot
 
-![Mobile First view](./ss/SS_header.jpg)
-![Mobile First view](./ss/SS_mid1.jpg)
-![Mobile First view](./ss/SS_mid1.jpg)
-![Mobile First view](./ss/SS_footer.jpg)
+![Mobile First view](./ss/SS_header.png)
+![Mobile First view](./ss/SS_mid1.png)
+![Mobile First view](./ss/SS_mid1.png)
+![Mobile First view](./ss/SS_footer.png)
 
 
 
